@@ -1,0 +1,8 @@
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\bin\Debug\DemoCICD.dll
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\bin\Debug\DemoCICD.pdb
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\bin\Debug\WebDriver.dll
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\bin\Debug\WebDriver.xml
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\obj\Debug\DemoCICD.csprojResolveAssemblyReference.cache
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\obj\Debug\DemoCICD.dll
+c:\users\ankur.choudhary\documents\visual studio 2015\Projects\DemoCICD\DemoCICD\obj\Debug\DemoCICD.pdb
